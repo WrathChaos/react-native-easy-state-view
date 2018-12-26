@@ -1,0 +1,36 @@
+{
+  "name": "react-native-easy-state-view",
+  "version": "0.1.0",
+  "description": "Fully customizable State View for React Native.",
+  "keywords": [
+    "react-native",
+    "easy-state-view",
+    "state",
+    "view",
+    "javascript",
+    "ui-lib",
+    "rn"
+  ],
+  "homepage": "https://www.freakycoder.com",
+  "bugs": "https://github.com/WrathChaos/react-native-easy-state-view/issues",
+  "main": "./lib/src/components/FloatingActionButton.js",
+  "repository": "git@github.com:WrathChaos/react-native-easy-state-view.git",
+  "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "peerDependencies": {
+    "react": ">= 16.x",
+    "react-native": ">= 0.55.x",
+    "crypto-js": ">= 3.1.9",
+    "react-native-easy-cached-image": ">= 0.0.x"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.15",
+    "@types/react-native": "^0.57.2"
+  }
+}
