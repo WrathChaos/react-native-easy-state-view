@@ -10,7 +10,7 @@ Easy Peasy State View for React Native. StateView is fully customizable, make it
 <img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example1.png" width="49.7%"/>
 <img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example2.png" width="49.7%"/>
 </p>
-
+<p align="center"><img src="http://pluspng.com/img-png/png-divider-lines-tiny-edge-line-decorative-divider-png-512.png" alt="PNG Divider Lines" width="49.7%" height="1%"></p>
 <p align="center">
 <img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example3.png" width="49.7%"/>
 <img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example4.png" width="49.7%"/>
