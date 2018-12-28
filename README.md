@@ -11,8 +11,6 @@ Easy Peasy State View for React Native. StateView is fully customizable, make it
 <img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example2.png" width="49.7%"/>
 </p>
 
-</br>
-
 <p align="center">
 <img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example3.png" width="49.7%"/>
 <img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example4.png" width="49.7%"/>
