@@ -1,6 +1,6 @@
 {
   "name": "react-native-easy-state-view",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Fully customizable State View for React Native.",
   "keywords": [
     "react-native",
@@ -26,9 +26,7 @@
   "peerDependencies": {
     "react": ">= 16.x",
     "react-native": ">= 0.55.x",
-    "crypto-js": ">= 3.1.9",
-    "react-native-material-ripple": ">= 0.8.0",
-    "react-native-easy-cached-image": ">= 0.x.x"
+    "react-native-material-ripple": ">= 0.8.0"
   },
   "devDependencies": {
     "@types/react": "^16.4.15",

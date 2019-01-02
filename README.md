@@ -43,8 +43,6 @@ npm i react-native-easy-state-view
 ##### IMPORTANT! You need install them.
 
 ```
-    crypto-js                           // This is the peer dependency for easy cached image
-    react-native-easy-cached-image      // Main image component, but you can implement your image component as well. You do not need to use this.
     react-native-material-ripple        // Main button component, but you can implement your button component as well. You do not need to use this.
 ```
 
