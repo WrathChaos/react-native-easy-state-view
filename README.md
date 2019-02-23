@@ -43,7 +43,7 @@ npm i react-native-easy-state-view
 ##### IMPORTANT! You need install them.
 
 ```
-    react-native-material-ripple        // Main button component, but you can implement your button component as well. You do not need to use this.
+    react-native-material-ripple  // Main button component, but you can implement your button component as well. You do not need to use this.
 ```
 
 ### Example Application
@@ -77,6 +77,9 @@ npm i react-native-easy-state-view
 | buttonTextColor             | color     | "white"                | use this to change button's text color                       |
 | buttonText                  | string    | "Let's Go!"            | use this to set your button's text                           |
 
+# Change Log
+
+## [0.3.0](https://github.com/wrathchaos/react-native-easy-state-view/tree/0.3.0) (2019-02-23)
 
 ## Author
 
