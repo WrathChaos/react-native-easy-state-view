@@ -76,6 +76,8 @@ npm i react-native-easy-state-view
 | buttonTextStyle             | style     | check the source code  | use this to implement your own style for button's text style |
 | buttonTextColor             | color     | "white"                | use this to change button's text color                       |
 | buttonText                  | string    | "Let's Go!"            | use this to set your button's text                           |
+| shadowColor                 | color     | "#000"                 | use this to change button's shadow color                     |
+| shadowStyle                 | style     | _shadowStyle           | use this to set your own shadow style                        |
 
 # Change Log
 
