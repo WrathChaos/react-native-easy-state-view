@@ -3,7 +3,7 @@
 Easy Peasy State View for React Native. StateView is fully customizable, make it your own state view.
 
 [![npm version](https://img.shields.io/npm/v/react-native-easy-state-view.svg)](https://www.npmjs.com/package/react-native-easy-state-view)
-[![npm downloads](https://img.shields.io/npm/dm/react-native-easy-state-view.svg)](https://www.npmjs.com/package/react-native-easy-state-view)
+[![npm](https://img.shields.io/npm/dt/react-native-easy-state-view.svg)](https://www.npmjs.com/package/react-native-easy-state-view)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
