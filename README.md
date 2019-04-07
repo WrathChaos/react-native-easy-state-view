@@ -79,9 +79,11 @@ npm i react-native-easy-state-view
 | shadowColor                 | color     | "#000"                 | use this to change button's shadow color                     |
 | shadowStyle                 | style     | _shadowStyle           | use this to set your own shadow style                        |
 
-# Change Log
 
-## [0.3.0](https://github.com/wrathchaos/react-native-easy-state-view/tree/0.3.0) (2019-02-23)
+## Credits
+Thanks for Kaylylai for these awesome illustrations :O I love her work a lot! 
+Here is the Kaylylai's Dribbble portfolio : [Kaylylai's Dribble](https://dribbble.com/kaylylai)
+
 
 ## Author
 
