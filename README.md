@@ -7,13 +7,13 @@ Easy Peasy State View for React Native. StateView is fully customizable, make it
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-<img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example.png" width="49.7%"/>
-<img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example2.png" width="49.7%"/>
+<img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example.png" width="49.7%" height="820"/>
+<img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example4.png" width="49.7%" height="820"/>
 </p>
 
 <p align="center">
-<img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example3.png" width="49.7%"/>
-<img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example4.png" width="49.7%"/>
+<img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example3.png" width="49.7%" height="820"/>
+<img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example2.png" width="49.7%" height="820"/>
 </p>
 
 ## Installation
