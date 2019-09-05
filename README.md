@@ -4,7 +4,7 @@ Easy Peasy State View for React Native. StateView is fully customizable, make it
 
 [![npm version](https://img.shields.io/npm/v/react-native-easy-state-view.svg)](https://www.npmjs.com/package/react-native-easy-state-view)
 [![npm](https://img.shields.io/npm/dt/react-native-easy-state-view.svg)](https://www.npmjs.com/package/react-native-easy-state-view)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Greenkeeper badge](https://badges.greenkeeper.io/WrathChaos/react-native-easy-state-view.svg)](https://greenkeeper.io/)
 
 <p align="center">
 <img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example.png" width="49.7%" height="820"/>
