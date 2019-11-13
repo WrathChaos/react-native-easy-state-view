@@ -1,7 +1,7 @@
 {
   "name": "react-native-easy-state-view",
-  "version": "0.3.1",
-  "description": "Fully customizable State View for React Native.",
+  "version": "0.3.2",
+  "description": "Fully customizable State View with plug & play usage for React Native.",
   "keywords": [
     "react-native",
     "easy-state-view",
@@ -27,9 +27,5 @@
     "react": ">= 16.x",
     "react-native": ">= 0.55.x",
     "react-native-material-ripple": ">= 0.8.0"
-  },
-  "devDependencies": {
-    "@types/react": "^16.4.15",
-    "@types/react-native": "^0.57.2"
   }
 }

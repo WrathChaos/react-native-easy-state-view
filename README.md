@@ -1,19 +1,22 @@
 # <img alt="React Native Easy State View" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/logo.png" width="1050"/>
 
-Easy Peasy State View for React Native. StateView is fully customizable, make it your own state view.
+[![Battle Tested ✅](https://img.shields.io/badge/-Battle--Tested%20%E2%9C%85-03666e?style=for-the-badge)](https://github.com/WrathChaos/react-native-button)
 
-[![npm version](https://img.shields.io/npm/v/react-native-easy-state-view.svg)](https://www.npmjs.com/package/react-native-easy-state-view)
-[![npm](https://img.shields.io/npm/dt/react-native-easy-state-view.svg)](https://www.npmjs.com/package/react-native-easy-state-view)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Fully customizable State View with plug & play usage for React Native.](https://img.shields.io/badge/-Fully%20customizable%20State%20View%20with%20plug%20%26%20play%20usage%20for%20React%20Native.-lightgrey?style=for-the-badge)](https://github.com/WrathChaos/react-native-easy-state-view)
+
+[![npm version](https://img.shields.io/npm/v/react-native-easy-state-view.svg?style=for-the-badge)](https://www.npmjs.com/package/react-native-easy-state-view)
+[![npm](https://img.shields.io/npm/dt/react-native-easy-state-view.svg?style=for-the-badge)](https://www.npmjs.com/package/react-native-easy-state-view)
+![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg?style=for-the-badge)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-<img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example.png" width="49.7%" height="820"/>
-<img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example4.png" width="49.7%" height="820"/>
+<img alt="React Native Easy State View Image" src="assets/Screenshots/example.png" width="49.7%" height="820"/>
+<img alt="React Native Easy State View Image" src="assets/Screenshots/example4.png" width="49.7%" height="820"/>
 </p>
 
 <p align="center">
-<img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example3.png" width="49.7%" height="820"/>
-<img alt="React Native Easy State View Image" src="https://github.com/WrathChaos/react-native-easy-state-view/blob/master/assets/Screenshots/example2.png" width="49.7%" height="820"/>
+<img alt="React Native Easy State View Image" src="assets/Screenshots/example3.png" width="49.7%" height="820"/>
+<img alt="React Native Easy State View Image" src="assets/Screenshots/example2.png" width="49.7%" height="820"/>
 </p>
 
 ## Installation
@@ -24,26 +27,25 @@ Add the dependency:
 npm i react-native-easy-state-view
 ```
 
-## Basic Usage
-
-```ruby
- <StateView
-  isCenter
-  imageSource={imageSource}
-  enableButton
-  style={{ top: "40%" }}
-  title="No Favorites Yet!"
-  subtitle="There is no favorites but here are some gifts from santa :)"
-/>
-```
-
-
 ## Peer Dependencies
 
 ##### IMPORTANT! You need install them.
 
+```js
+"react-native-material-ripple": ">= 0.8.0"
 ```
-    react-native-material-ripple  // Main button component, but you can implement your button component as well. You do not need to use this.
+
+## Basic Usage
+
+```jsx
+<StateView
+  isCenter
+  enableButton
+  style={{ top: "40%" }}
+  title="No Favorites Yet!"
+  imageSource={require("./assets/your-image")}
+  subtitle="There is no favorites but here are some gifts from santa :)"
+/>
 ```
 
 ### Example Application
@@ -77,13 +79,12 @@ npm i react-native-easy-state-view
 | buttonTextColor             | color     | "white"                | use this to change button's text color                       |
 | buttonText                  | string    | "Let's Go!"            | use this to set your button's text                           |
 | shadowColor                 | color     | "#000"                 | use this to change button's shadow color                     |
-| shadowStyle                 | style     | _shadowStyle           | use this to set your own shadow style                        |
-
+| shadowStyle                 | style     | \_shadowStyle          | use this to set your own shadow style                        |
 
 ## Credits
-Thanks for Kaylylai for these awesome illustrations :O I love her work a lot! 
-Here is the Kaylylai's Dribbble portfolio : [Kaylylai's Dribble](https://dribbble.com/kaylylai)
 
+Thanks for Kaylylai for these awesome illustrations :O I love her work a lot!
+Here is the Kaylylai's Dribbble portfolio : [Kaylylai's Dribble](https://dribbble.com/kaylylai)
 
 ## Author
 
