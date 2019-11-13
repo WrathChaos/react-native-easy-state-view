@@ -1,6 +1,6 @@
 {
   "name": "react-native-easy-state-view",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Fully customizable State View with plug & play usage for React Native.",
   "keywords": [
     "react-native",
@@ -13,7 +13,7 @@
   ],
   "homepage": "https://www.freakycoder.com",
   "bugs": "https://github.com/WrathChaos/react-native-easy-state-view/issues",
-  "main": "./lib/src/components/StateView.js",
+  "main": "./lib/src/StateView.js",
   "repository": "git@github.com:WrathChaos/react-native-easy-state-view.git",
   "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
   "license": "MIT",
