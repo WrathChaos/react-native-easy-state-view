@@ -65,7 +65,7 @@ npm i react-native-easy-state-view
 | subtitle                    | string    | " "                    | use this to change your subtitle's style                     |
 | subtitleStyle               | style     | check the source code  | use this to change your subtitle's style                     |
 | isCenter                    | boolean   | false                  | use this to center the StateView's content (recommended)     |
-| imageStyle                  | style     | check the source code  | use this to change your own image STyle                      |
+| imageStyle                  | style     | check the source code  | use this to change your own image style                      |
 | imageResizeMode             | string    | "contain"              | use this to change your image's resize mode                  |
 | imageSource                 | image     | Cutie Snow Globe Image | use this to set your own image source                        |
 | enableButton                | boolean   | false                  | set the enableButton to use the button                       |
