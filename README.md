@@ -19,6 +19,10 @@
 <img alt="React Native Easy State View Image" src="assets/Screenshots/example2.png" width="49.7%" height="820"/>
 </p>
 
+<p align="center">
+<img alt="React Native Easy State View Image" src="assets/Screenshots/example-new.png" />
+</p>
+
 ## Installation
 
 Add the dependency:
@@ -29,22 +33,21 @@ npm i react-native-easy-state-view
 
 ## Peer Dependencies
 
-##### IMPORTANT! You need install them.
+##### IMPORTANT! You need install them
 
 ```js
-"react-native-material-ripple": ">= 0.8.0"
+"@freakycoder/react-native-bounceable": ">= 0.2.4"
 ```
 
 ## Basic Usage
 
 ```jsx
 <StateView
-  isCenter
   enableButton
-  style={{ top: "40%" }}
-  title="No Favorites Yet!"
-  imageSource={require("./assets/your-image")}
-  subtitle="There is no favorites but here are some gifts from santa :)"
+  buttonText="Refresh"
+  title="No Content"
+  description="Etiam porta sem malesuada magna mollis euismod. Sed posuere consectetur est at lobortis."
+  onPress={() => {}}
 />
 ```
 
@@ -56,30 +59,23 @@ npm i react-native-easy-state-view
 
 ### Configuration - Props
 
-| Property                    | Type      | Default                | Description                                                  |
-| --------------------------- | --------- | ---------------------- | ------------------------------------------------------------ |
-| style                       | style     | { top: 0 }             | use this to implement your own style for whole StateView.    |
-| title                       | string    | " "                    | use this to write your title                                 |
-| titleStyle                  | style     | check the source code  | use this to change your title's style                        |
-| onPress                     | function  | undefined              | use this to handle the press the button                      |
-| subtitle                    | string    | " "                    | use this to change your subtitle's style                     |
-| subtitleStyle               | style     | check the source code  | use this to change your subtitle's style                     |
-| isCenter                    | boolean   | false                  | use this to center the StateView's content (recommended)     |
-| imageStyle                  | style     | check the source code  | use this to change your own image STyle                      |
-| imageResizeMode             | string    | "contain"              | use this to change your image's resize mode                  |
-| imageSource                 | image     | Cutie Snow Globe Image | use this to set your own image source                        |
-| enableButton                | boolean   | false                  | set the enableButton to use the button                       |
-| buttonComponent             | component | default ripple button  | use this to implement your own button                        |
-| rippleColor                 | color     | "white"                | use this to change ripple color                              |
-| rippleDuration              | int       | 750                    | use this to set ripple duration                              |
-| rippleContainerBorderRadius | int       | 16                     | use this to change ripple's border radius                    |
-| buttonContainerStyle        | style     | check the source code  | use this to implement your own style for button container    |
-| buttonColor                 | color     | "#FFAF10"              | use this to change button's container color                  |
-| buttonTextStyle             | style     | check the source code  | use this to implement your own style for button's text style |
-| buttonTextColor             | color     | "white"                | use this to change button's text color                       |
-| buttonText                  | string    | "Let's Go!"            | use this to set your button's text                           |
-| shadowColor                 | color     | "#000"                 | use this to change button's shadow color                     |
-| shadowStyle                 | style     | \_shadowStyle          | use this to set your own shadow style                        |
+| Property             | Type      | Default                | Description                                                 |
+| -------------------- | --------- | ---------------------- | ----------------------------------------------------------- |
+| style                | style     | default                | customize/override the default style of the main state view |
+| title                | string    | undefined              | change the title                                            |
+| titleStyle           | style     | default                | use this to change title's style                            |
+| onPress              | function  | undefined              | use this to handle the press the button                     |
+| description          | string    | undefined              | use this to change description's style                      |
+| descriptionStyle     | style     | default                | use this to change description's style                      |
+| isCenter             | boolean   | false                  | use this to center the StateView's content                  |
+| imageStyle           | style     | default                | use this to change own image style                          |
+| imageSource          | image     | Cutie Snow Globe Image | use this to set own image source                            |
+| enableButton         | boolean   | false                  | set the enableButton to use the button                      |
+| buttonComponent      | component | RNBounceable           | use this to implement own button                            |
+| buttonContainerStyle | style     | default                | use this to implement own style for button container        |
+| buttonTextStyle      | style     | default                | use this to implement own style for button's text style     |
+| buttonText           | string    | "Let's Go!"            | use this to set button's text                               |
+| shadowStyle          | style     | \_shadowStyle          | use this to set own shadow style                            |
 
 ## Credits
 

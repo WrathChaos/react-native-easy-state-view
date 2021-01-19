@@ -28,12 +28,11 @@ interface IStateViewProps {
   buttonText?: string;
   buttonColor?: string;
   enableButton?: boolean;
-  imageResizeMode?: string;
+  imageSource?: any;
   buttonComponent?: React.ReactNode;
   shadowStyle?: CustomStyleProp;
   titleStyle?: CustomTextStyleProp;
   imageStyle?: CustomImageStyleProp;
-  imageSource?: any;
   descriptionStyle?: CustomTextStyleProp;
   buttonContainerStyle?: CustomStyleProp;
   buttonTextStyle?: CustomTextStyleProp;
@@ -52,7 +51,6 @@ const StateView: React.FC<IStateViewProps> = ({
   imageSource,
   descriptionStyle,
   buttonComponent,
-  imageResizeMode,
   buttonTextStyle,
   buttonContainerStyle,
   isCenter = true,
