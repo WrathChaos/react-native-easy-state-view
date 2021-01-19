@@ -1,6 +1,6 @@
 import React from "react";
 import { StatusBar, SafeAreaView } from "react-native";
-import StateView from "./build/dist/StateView";
+import StateView from "react-native-easy-state-view";
 
 const App = () => {
   return (
