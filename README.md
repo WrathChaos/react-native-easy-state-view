@@ -23,6 +23,11 @@
 <img alt="React Native Easy State View Image" src="assets/Screenshots/example-new.png" />
 </p>
 
+## Version 1.0.0 🥳
+
+Version 1.0.0 is finally here after thousands of downloads and usage of this library 😎
+I wonder that what you're going to build with this library. I will share your awesome product on here
+
 ## Installation
 
 Add the dependency:
