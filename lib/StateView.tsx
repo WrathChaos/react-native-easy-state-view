@@ -14,13 +14,17 @@ import {
 import styles, { _shadowStyle } from "./StateView.style";
 import RNBounceable from "@freakycoder/react-native-bounceable";
 
-type CustomStyleProp = StyleProp<ViewStyle> | Array<StyleProp<ViewStyle>>;
-type CustomTextStyleProp = StyleProp<TextStyle> | Array<StyleProp<TextStyle>>;
-type CustomImageStyleProp =
+export type CustomStyleProp =
+  | StyleProp<ViewStyle>
+  | Array<StyleProp<ViewStyle>>;
+export type CustomTextStyleProp =
+  | StyleProp<TextStyle>
+  | Array<StyleProp<TextStyle>>;
+export type CustomImageStyleProp =
   | StyleProp<ImageStyle>
   | Array<StyleProp<ImageStyle>>;
 
-interface IStateViewProps {
+export interface IStateViewProps {
   style?: CustomStyleProp;
   title: string;
   description?: string;
