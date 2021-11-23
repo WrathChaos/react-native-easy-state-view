@@ -10,13 +10,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-<img alt="React Native Easy State View Image" src="assets/Screenshots/example.png" width="49.7%" height="820"/>
-<img alt="React Native Easy State View Image" src="assets/Screenshots/example4.png" width="49.7%" height="820"/>
+<img alt="React Native Easy State View Image" src="assets/Screenshots/example.png" height="820"/>
+<img alt="React Native Easy State View Image" src="assets/Screenshots/example4.png" height="820"/>
 </p>
 
 <p align="center">
-<img alt="React Native Easy State View Image" src="assets/Screenshots/example3.png" width="49.7%" height="820"/>
-<img alt="React Native Easy State View Image" src="assets/Screenshots/example2.png" width="49.7%" height="820"/>
+<img alt="React Native Easy State View Image" src="assets/Screenshots/example3.png" height="820"/>
+<img alt="React Native Easy State View Image" src="assets/Screenshots/example2.png" height="820"/>
 </p>
 
 <p align="center">
