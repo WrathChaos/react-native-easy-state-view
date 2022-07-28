@@ -51,6 +51,6 @@
     ]
   },
   "dependencies": {
-    "@freakycoder/react-native-bounceable": "^0.2.5"
+    "@freakycoder/react-native-bounceable": "^1.0.2"
   }
 }
